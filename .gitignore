@@ -1,0 +1,21 @@
+# Ignore executable files and object files
+*.exe
+*.o
+*.obj
+*.gch
+*.dll
+
+# Ignore compiled visual output
+*.bmp
+*.jpg
+*.png
+*.tga
+
+# Ignore temporary files
+*.log
+*.tmp
+*.bak
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
