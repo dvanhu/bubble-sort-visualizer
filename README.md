@@ -20,9 +20,11 @@ This project demonstrates a graphical visualization of the Bubble Sort algorithm
   
 ## Input Visualization
 ![image](https://github.com/user-attachments/assets/b678dfd0-e696-4175-9b5b-1018760019dd)
- Random array
+
+Random array
  ## Output Visualization:
 ![image](https://github.com/user-attachments/assets/1f590606-4124-4ef6-acc9-dbbe3525d368)
+
 Reverse sorted array
 
 ## 🚀 Run
